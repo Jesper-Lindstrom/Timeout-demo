@@ -1,3 +1,3 @@
 # Timeout example
 
-a function with a
+[Gå in på sidan här](http://jesper-lindstrom.github.io/Timeout-demo/).
